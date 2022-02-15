@@ -1,0 +1,2 @@
+# Doggler
+A simpler datalogger
